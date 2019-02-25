@@ -17,8 +17,8 @@ title: AI for the Rest of Us
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A very gentle but thorough introduction to AI and Machine Learning.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/airu" # the subpath of your site, e.g. /blog
+url: "https://davehcker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 github_username:  davehcker
 markdown: kramdown
