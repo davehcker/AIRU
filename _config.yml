@@ -26,7 +26,8 @@ plugins:
   - jekyll-feed
 
 permalink: pretty
-
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
