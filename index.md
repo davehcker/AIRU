@@ -1,4 +1,5 @@
 ---
+title: Home
 layout: default
 ---
 # A GENTLE INTRODUCTION TO ARTIFICIAL INTELLIGENCE 
