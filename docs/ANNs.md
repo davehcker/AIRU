@@ -5,7 +5,6 @@ nav_order: 2
 has_children: true
 permalink: /docs/anns
 ---
-# Chapter 3
 # Artificial Neural Networks
 **Use cases ANNs work well with:**
 1. Instances are represented by many attribute-value pairs.
